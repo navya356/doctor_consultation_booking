@@ -1,0 +1,13 @@
+.prescriptions {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .prescriptions .prescription-card {
+    width: 400px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+  }
+  

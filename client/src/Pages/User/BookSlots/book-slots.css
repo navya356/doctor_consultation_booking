@@ -1,0 +1,21 @@
+.slots {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .slot-card {
+    width: 100px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid black;
+  }
+  
+  .slot-card .book-btn {
+    color: white;
+  }
+  
+  .slot-card .cancel-btn:hover {
+    color: red;
+  }
+  

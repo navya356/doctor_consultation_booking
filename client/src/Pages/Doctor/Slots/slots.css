@@ -1,0 +1,13 @@
+.slots {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .slots .slot-card {
+    width: 400px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+  }
+  
